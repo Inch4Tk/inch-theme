@@ -1,0 +1,21 @@
+{
+    "name": "inch-theme",
+    "displayName": "Inch Theme",
+    "description": "Theme combining Plastic and One Dark Pro (and some other inspirations).",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Inch Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/inch-color-theme.json"
+            }
+        ]
+    }
+}

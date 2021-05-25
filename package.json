@@ -3,12 +3,14 @@
     "displayName": "Inch Theme",
     "description": "Theme combining Plastic and One Dark Pro (and some other inspirations).",
     "version": "1.0.0",
+    "publisher": "Inch",
     "engines": {
         "vscode": "^1.55.0"
     },
     "categories": [
         "Themes"
     ],
+    "repository": "github:Inch4Tk/inch-theme",
     "contributes": {
         "themes": [
             {
